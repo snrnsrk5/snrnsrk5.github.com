@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python(class)"
+title: "Python"
 date: 2020-03-29
 excerpt: "class"
 tags: [sample post, readability, test]
