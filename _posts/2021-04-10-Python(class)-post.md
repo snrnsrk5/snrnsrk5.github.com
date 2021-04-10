@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Blender"
+title: "Python(class)"
 date: 2020-03-29
-excerpt: "블렌더"
+excerpt: "class"
 tags: [sample post, readability, test]
 comments: true
 ---
